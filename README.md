@@ -1,54 +1,116 @@
 # Hi, I'm Omer Fauzan 👋
 
-Master of AI student at **RMIT University, Melbourne**. I build machine learning, deep learning, NLP and reinforcement learning systems end to end — from raw data to tested, working applications.
+**Master of AI student @ RMIT University, Melbourne** — I build machine learning, deep learning, NLP and reinforcement learning systems end to end, from raw data to tested, working applications.
 
-- 🎓 MSc Artificial Intelligence, RMIT (finishing Nov 2026) · BE in AI & Data Science, Osmania University
-- 📄 Published research: **SpondyDetect** — ML model for spondylitis detection ([IJMRSET](https://www.ijmrset.com), Vol 7, Issue 7, Jul 2024)
-- 💼 Looking for AI/ML internships now; open to full-time roles from Dec 2026
-- 📫 [LinkedIn](https://www.linkedin.com/in/omer-fauzan/) · omerfauzan407@gmail.com · Melbourne, Australia
+📄 Published researcher · 💼 Seeking AI/ML internships now, full-time from Dec 2026
 
-> Most of my recent work is university coursework, kept in private repos under RMIT's academic integrity policy. Happy to walk through any of it in an interview.
+📫 [LinkedIn](https://www.linkedin.com/in/omer-fauzan/) · omerfauzan407@gmail.com · Melbourne, Australia
+
+> ℹ️ Most of my recent work is university coursework, kept private under RMIT's academic integrity policy. Happy to walk through any of it in an interview.
+
+---
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**AI / ML**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=sharp&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity_ML--Agents-000000?style=flat&logo=unity&logoColor=white)
+![Unity ML-Agents](https://img.shields.io/badge/Unity_ML--Agents-000000?style=flat&logo=unity&logoColor=white)
+
+**Cloud & Tools**
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 **Focus areas:** Computer Vision · NLP · Reinforcement Learning · Model Evaluation · Feature Engineering
+**Also worked with:** Clingo/ASP · Prolog · MQTT · Raspberry Pi · Weka · matplotlib/plotly
 
-**Also worked with:** Clingo/ASP · Prolog · MQTT · Raspberry Pi · pytest · Weka · Kotlin · matplotlib/plotly
+---
 
 ## 📌 Key Projects
 
+### 🔬 Deep Learning & Computer Vision
+
 | Project | What it is | Highlights |
 |---|---|---|
-| 🔬 Histopathology Image Classification | PyTorch CNN classifying cancerous vs healthy tissue, plus a 4-class cell-type task | 90.6% accuracy, 0.89 macro-F1; focal loss for class imbalance |
-| 🎮 RL Survival Game — Unity ML-Agents | 2D arena survival game with PPO-trained agents; led the group, owned the Player agent | Mean reward ~0.3 → ~15.9 over 4 training runs |
-| 💬 NLP Product Recommendation Classifier | Predicts recommendations from clothing reviews | Compared BoW, TF-IDF and GloVe; stratified 5-fold CV |
-| 🌐 Agent Pi — Distributed IoT System | Flask app in a multi-Raspberry-Pi system: TCP sockets, MQTT, MySQL, role-based dashboards | 29 pytest unit tests, flake8 CI |
-| 📅 Exam Timetabling Optimiser | Constraint-based scheduling in Answer Set Programming (Clingo) | Wrote YAML-to-ASP parser and constraints; ran solver benchmarks |
-| 🩺 SpondyDetect | ML model detecting spondylitis from medical data | **Published in IJMRSET, Jul 2024** |
-| 🎲 Connect4 Monte Carlo Agent | Game AI with Monte Carlo methods + behaviour trees | Group project, RMIT Games & AI |
-| 👕 Fashion MNIST Classifier | CNN built during my EDGENeural.ai internship (TensorFlow/Keras) | ~90% accuracy |
+| Histopathology Image Classification | PyTorch CNN classifying cancerous vs healthy tissue + 4-class cell-type task | **90.6% accuracy, 0.89 macro-F1**; focal loss for class imbalance |
+| Fashion MNIST Classifier | CNN built during my EDGENeural.ai internship (TensorFlow/Keras) | ~90% accuracy |
+
+### 🎮 Reinforcement Learning & Game AI
+
+| Project | What it is | Highlights |
+|---|---|---|
+| RL Survival Game — Unity ML-Agents | 2D arena survival game with PPO-trained agents; led the group, owned the Player agent | Mean reward **~0.3 → ~15.9** over 4 training runs |
+| Connect4 Monte Carlo Agent | Game AI using Monte Carlo methods + behaviour trees | Group project, RMIT Games & AI |
+
+### 💬 NLP
+
+| Project | What it is | Highlights |
+|---|---|---|
+| Product Recommendation Classifier | Predicts recommendations from written clothing reviews | Compared BoW, TF-IDF, GloVe; stratified 5-fold CV |
+
+### ⚙️ Systems & Optimisation
+
+| Project | What it is | Highlights |
+|---|---|---|
+| Agent Pi — Distributed IoT System | Flask app in a multi-Raspberry-Pi system: TCP sockets, MQTT, MySQL, role-based dashboards | 29 pytest unit tests, flake8 CI |
+| Exam Timetabling Optimiser | Constraint-based scheduling in Answer Set Programming (Clingo) | Wrote YAML-to-ASP parser and constraints; solver benchmarks |
+
+### 🩺 Published Research
+
+| Project | What it is | Highlights |
+|---|---|---|
+| SpondyDetect | ML model detecting spondylitis from medical data | **Published in IJMRSET, Vol 7, Issue 7, Jul 2024** |
+
+---
 
 ## 💼 Experience
 
-- **AI with Python Intern** — EDGENeural.ai (Jul–Aug 2021): CNN image classification, end-to-end ML workflows
-- **Google Cloud Facilitator** — GDSC MCET (Oct 2022–Mar 2023): ran GCP workshops and hands-on labs, mentored peers to GCCP certification; led PlacementHub, a college placement platform on Cloud Run + Cloud SQL
+| Role | Organisation | Period |
+|---|---|---|
+| AI with Python Intern | EDGENeural.ai | Jul – Aug 2021 |
+| Google Cloud Facilitator | Google Developer Student Club, MCET | Oct 2022 – Mar 2023 |
+
+- **EDGENeural.ai:** CNN-based image classification, end-to-end ML workflows
+- **GDSC MCET:** ran GCP workshops and hands-on labs, mentored peers to GCCP certification; led **PlacementHub**, a college placement platform on Cloud Run + Cloud SQL
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Years |
+|---|---|---|
+| MSc Artificial Intelligence | RMIT University, Melbourne | 2025 – 2026 (expected Nov 2026) |
+| BE Artificial Intelligence & Data Science | Methodist College of Engineering & Technology (Osmania University), Hyderabad | 2020 – 2024 |
+
+---
 
 ## 📜 Certifications
 
-Google Cloud Career Practitioner · CCNA v7: Introduction to Networks · 30 Days of Google Cloud · Cisco Programming Essentials in C · Git and GitHub
+- Google Cloud Career Practitioner
+- Google Cloud Engineer Learning Path
+- 30 Days of Google Cloud
+- CCNA v7: Introduction to Networks
+- Cisco Programming Essentials in C
+- Git and GitHub
+- Compose Camp (GDSC)
+- Python & AI Workshop
+
+---
 
 ## 📊 GitHub Stats
 
