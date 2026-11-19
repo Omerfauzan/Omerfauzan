@@ -70,6 +70,13 @@
 | Agent Pi — Distributed IoT System | Flask app in a multi-Raspberry-Pi system: TCP sockets, MQTT, MySQL, role-based dashboards | 29 pytest unit tests, flake8 CI |
 | Exam Timetabling Optimiser | Constraint-based scheduling in Answer Set Programming (Clingo) | Wrote YAML-to-ASP parser and constraints; solver benchmarks |
 
+### 📱 Apps I Built
+
+| Project | What it is | Highlights |
+|---|---|---|
+| [Clocked](https://github.com/Omerfauzan/clocked) | Shift and wage tracker for casual workers that installs on your phone like an app | Works offline, no account or server; weekly/monthly/yearly stats; WhatsApp-ready wage reports |
+| [Plate](https://github.com/Omerfauzan/plate) | Calorie and macro tracker where you type what you ate in plain words | AI food entry (Claude Haiku) through a Cloudflare Worker that keeps the API key off the client; about 170 built-in Australian foods |
+
 ### 🩺 Published Research
 
 | Project | What it is | Highlights |
@@ -82,9 +89,11 @@
 
 | Role | Organisation | Period |
 |---|---|---|
+| Work-Integrated Learning (Capstone) | ElectraWireless | Jul 2026 – Nov 2026 |
 | AI with Python Intern | EDGENeural.ai | Jul – Aug 2021 |
 | Google Cloud Facilitator | Google Developer Student Club, MCET | Oct 2022 – Mar 2023 |
 
+- **ElectraWireless:** worked in a five-person team on machine learning and a web interface for a healthcare analytics platform
 - **EDGENeural.ai:** CNN-based image classification, end-to-end ML workflows
 - **GDSC MCET:** ran GCP workshops and hands-on labs, mentored peers to GCCP certification; led **PlacementHub**, a college placement platform on Cloud Run + Cloud SQL
 
