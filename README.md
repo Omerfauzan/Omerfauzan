@@ -1,8 +1,8 @@
 # Hi, I'm Omer Fauzan 👋
 
-**Master of AI student @ RMIT University, Melbourne** — I build machine learning, deep learning, NLP and reinforcement learning systems end to end, from raw data to tested, working applications.
+**Master of AI @ RMIT University, Melbourne** — I build machine learning, deep learning, NLP and reinforcement learning systems end to end, from raw data to tested, working applications.
 
-📄 Published researcher · 💼 Seeking AI/ML internships now, full-time from Dec 2026
+📄 Published researcher · 💼 Open to AI/ML roles, available now
 
 📫 [LinkedIn](https://www.linkedin.com/in/omer-fauzan/) · omerfauzan407@gmail.com · Melbourne, Australia
 
@@ -74,7 +74,6 @@
 
 | Project | What it is | Highlights |
 |---|---|---|
-| [Clocked](https://github.com/Omerfauzan/clocked) | Shift and wage tracker for casual workers that installs on your phone like an app | Works offline, no account or server; weekly/monthly/yearly stats; WhatsApp-ready wage reports |
 | [Plate](https://github.com/Omerfauzan/plate) | Calorie and macro tracker where you type what you ate in plain words | AI food entry (Claude Haiku) through a Cloudflare Worker that keeps the API key off the client; about 170 built-in Australian foods |
 
 ### 🩺 Published Research
@@ -103,7 +102,7 @@
 
 | Degree | Institution | Years |
 |---|---|---|
-| MSc Artificial Intelligence | RMIT University, Melbourne | 2025 – 2026 (expected Nov 2026) |
+| Master of Artificial Intelligence | RMIT University, Melbourne | 2025 – 2026 |
 | BE Artificial Intelligence & Data Science | Methodist College of Engineering & Technology (Osmania University), Hyderabad | 2020 – 2024 |
 
 ---
